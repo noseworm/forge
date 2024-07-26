@@ -1,6 +1,6 @@
 # FORGE: 
 
 
-If you find TacSL useful for your work please cite:
+If you find FORGE useful for your work please cite:
 ```
 ```
